@@ -53,6 +53,8 @@ O sistema implementa uma comparação dinâmica em tempo real para análise de c
 │   │   └── logistic_network.py  # Lógica de Grafos e NetworkX
 │   └── ui/                  # Camada de Visualização
 │       └── web_app.py       # Interface Streamlit
+
+
 ´´´
 ---
 
@@ -113,5 +115,6 @@ python run.py
 
 
 O navegador abrirá automaticamente com o sistema rodando (geralmente no endereço http://localhost:8501).
+
 
 
