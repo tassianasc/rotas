@@ -129,7 +129,6 @@ O sistema implementa uma comparação dinâmica em tempo real para análise de c
 
 ## 📂 Estrutura do Projeto
 ```
-
 ├── run.py                   # Script de Entrada (Entry Point)
 ├── requirements.txt         # Lista de dependências
 ├── src/
@@ -137,3 +136,4 @@ O sistema implementa uma comparação dinâmica em tempo real para análise de c
 │   │   └── logistic_network.py  # Lógica de Grafos e NetworkX
 │   └── ui/                  # Camada de Visualização
 │       └── web_app.py       # Interface Streamlit
+´´´
