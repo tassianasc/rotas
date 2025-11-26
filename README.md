@@ -125,7 +125,8 @@ O sistema implementa uma comparação dinâmica em tempo real para análise de c
 * **🗺️ Visualização Interativa:** Plotagem gráfica da rede com destaque colorido para a rota ativa (Matplotlib).
 
 ## 📂 Estrutura do Projeto
-´
+```
+
 ├── run.py                   # Script de Entrada (Entry Point)
 ├── requirements.txt         # Lista de dependências
 ├── src/
@@ -136,4 +137,5 @@ O sistema implementa uma comparação dinâmica em tempo real para análise de c
 
 
 `
+
 
