@@ -91,7 +91,7 @@ O projeto adota princípios de **Engenharia de Software** para garantir modulari
 
 **1. Estrutura Modular (Separation of Concerns)**
 
-* ** `src/core´ (Backend Lógico):** Responsável pela modelagem matemática utilizando a biblioteca **NetworkX.**
+* ** ```src/core (Backend Lógico):** Responsável pela modelagem matemática utilizando a biblioteca **NetworkX.**
 
 	* **Estrutura:** Grafo Direcionado Ponderado (DiGraph).
 	* **Entidades:** Cidades (Nós), Estradas (Arestas) e Tempo de Viagem (Pesos).
@@ -136,3 +136,4 @@ O sistema implementa uma comparação dinâmica em tempo real para análise de c
 
 
 `
+
